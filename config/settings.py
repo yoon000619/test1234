@@ -135,5 +135,5 @@ DEFAULT_AUTO_FIELD = 'django.db.models.BigAutoField'
 STATIC_URL = '/static/'
 
 ALLOWED_HOSTS = [
-    'yoong20.pythonanywhere.com'
+    'yoon.pythonanywhere.com'
 ] 
